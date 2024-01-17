@@ -181,4 +181,5 @@ Agora que você já sabe o que é uma tupla, assista o próximo vídeo que traz 
 
 Muito bem. Nesta aula falamos sobre variáveis, atribuições, tipo e escopo de uma variável. Aprendemos a usar strings de maneira mais sofisticada e vimos um novo tipo de dados: Tuplas, cujas formas de manipulação tem muito em comum com as strings. Discutimos sobre a operação de fatiamento e o conceito de imutabilidade. A seguir é apresentado um vídeo sobre erros comuns relacionados a alguns temas aqui abordados.
 {{< youtube id="zkeCGBzdHTU" title="4- Variáveis e Atribuição, Strings, Tuplas: erros comuns" >}}
+
 **Atividade:** Vamos agora treinar um pouco com exercícios de fixação. Procure se lembrar de todos os conceitos que você adquiriu ao longo desta aula e responda as perguntas da atividade “Manipulando strings e tuplas”. Fique atento ao prazo de entrega dessa atividade! Se tiver dúvidas, comente sobre elas na aula síncrona ou nos plantões de monitoria.
